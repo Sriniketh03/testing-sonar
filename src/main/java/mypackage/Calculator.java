@@ -109,5 +109,4 @@ public class Calculator extends HttpServlet {
         System.out.println("Subtraction: " + resultSub);
         System.out.println("Multiplication: " + resultMul);
     }
-  
 }
